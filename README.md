@@ -9,13 +9,23 @@ Technologies & Libraries Used:
 - Scikit-learn : For evaluation metrics.
 - Gradio : For building a simple user interface.
 
-Current Progress: 
+Week 1 Progress: 
 
 - [x] Notebook created and saved to GitHub.
 - [x] Core libraries imported.
 - [ ] Dataset upload and organization.
 - [ ] Model training and testing.
 - [ ] Evaluation and visualizations.
+
+Current Progress: 
+
+- [x] Notebook created and saved to GitHub.
+- [x] Core libraries imported.
+- [x] Dataset uploaded and organized.
+- [x] Model trained and tested using EfficientNetV2B0.
+- [x] Evaluation metrics and visualizations completed.
+- [x] Confusion matrix implemented for classification accuracy.
+- [x] Week 2 notebook uploaded with executed outputs.
 
 Learning Goals:
 
@@ -24,6 +34,12 @@ As part of the Shell-Edunet Skills4Future AICTE Internship, this project is aime
 -Understand the fundamentals of model building, evaluation and optimization.
 -Learn how to handle image data through importing, preprocessing, and visualization.
 -Develop skills in presenting and communicating project outcomes to industry experts.
+
+Week 2 Progress:
+
+In the second week of the project the focus was on executing the next phase of the code provided in the source notebook. This involved organizing the dataset, applying transfer learning using EfficientNetV2B0 and training the classification model. Model performance was evaluated using accuracy and loss metrics and the results were visualized through plots. A confusion matrix was also generated to analyze class-wise prediction accuracy.
+
+This part of the project helped enhance my understanding of model training workflows and deepened my exposure to evaluation techniques.
 
 Acknowledgements:
 
